@@ -24,4 +24,4 @@ To ensure $P$ is Positive Definite, we consider an upper triangular matrix $V$ a
 ## Reference:
 Luis G. Crespo, Brendon K. Colbert, Sean P. Kenny, Daniel P. Giesy,
 On the quantification of aleatory and epistemic uncertainty using Sliced-Normal distributions,
-Systems & Control Letters,
+Systems & Control Letters.
